@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/week7.git/static/css/main.e7bc57c7.css",
+    "main.js": "/week7.git/static/js/main.91896662.js",
+    "static/js/453.1b6cbde4.chunk.js": "/week7.git/static/js/453.1b6cbde4.chunk.js",
+    "static/media/website-construction-background_1361-1388.avif": "/week7.git/static/media/website-construction-background_1361-1388.ab1a94c8b03c54666a06.avif",
+    "index.html": "/week7.git/index.html",
+    "main.e7bc57c7.css.map": "/week7.git/static/css/main.e7bc57c7.css.map",
+    "main.91896662.js.map": "/week7.git/static/js/main.91896662.js.map",
+    "453.1b6cbde4.chunk.js.map": "/week7.git/static/js/453.1b6cbde4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e7bc57c7.css",
+    "static/js/main.91896662.js"
+  ]
+}
